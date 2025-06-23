@@ -4,7 +4,7 @@ Currently working at MetricStream Infotech on GRC product UI/UX development.
 My core strength lies in building scalable, high-performing Frontend applications using React, MUI, and Lottie.
 I led the successful migration of a major GRC product from Backbone.js to Next.js, collaborating across 12 product teams and resolving over 350 issues in the process.
 I enjoy digging deep into architecture—whether it's exploring micro frontends, module federation, or optimizing form adapters for better runtime performance.
-Outside of engineering, I was recognized among 25,000 participants for my essay writing, and I'm constantly leveling up—brushing up on DSA.
+Outside of engineering, I was recognized among 25,000 participants for my essay writing, and I'm constantly leveling up—brushing up on my DSA.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasadboye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-boye) 
